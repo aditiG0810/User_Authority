@@ -14,10 +14,10 @@ Requirements 📋
 - JDBC (Java Database Connectivity)
 
 Usage 📄
-1. Run the program and select an option:
-    - Register: Create a new user account.
-    - Login: Log in to an existing user account.
-    - Logout: Exit the program.
+1. Run the program and select an option :
+    - Register : Create a new user account.
+    - Login : Log in to an existing user account.
+    - Logout : Exit the program.
 2. Follow the prompts to enter user information or login credentials.
 
 Database Setup 📊
