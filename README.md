@@ -21,7 +21,7 @@ Usage 📄
 2. Follow the prompts to enter user information or login credentials.
 
 Database Setup 📊
- To use this project, you'll need to create a MySQL database with a users table.
+- To use this project, you'll need to create a MySQL database with a users table.
  CREATE DATABASE b193;
  CREATE TABLE users (
   user_id INT PRIMARY KEY,
